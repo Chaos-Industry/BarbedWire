@@ -1,0 +1,4 @@
+name: BarbedWire
+version: @version@
+main: com.github.chaosindustory.barbedwire.BarbedWire
+api-version: 1.15
